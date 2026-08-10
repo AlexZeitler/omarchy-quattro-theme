@@ -16,7 +16,7 @@ selection_background = "#F2ECCD"
 
 # Background shades
 bg = "#0D1319"
-lighter_bg = "#252b30"
+lighter_bg = "#172532"
 dark_bg = "#0a0e13"
 darker_bg = "#070a0d"
 
@@ -24,12 +24,12 @@ darker_bg = "#070a0d"
 fg = "#F2ECCD"
 light_fg = "#f4efd5"
 bright_fg = "#f5f1da"
-dark_fg = "#b6b19a"
-muted = "#696d73"
+dark_fg = "#b7c3b9"
+muted = "#7b8a8e"
 selection = "#F2ECCD"
 
 # Accent hues
-red = "#b79356"
+red = "#cf5a44"
 green = "#dbc66f"
 yellow = "#fff38a"
 blue = "#808b40"
@@ -39,7 +39,7 @@ orange = "#c2a36f"
 brown = "#746243"
 
 # Bright hues
-bright_red = "#d4a658"
+bright_red = "#e07458"
 bright_green = "#f8dc67"
 bright_yellow = "#ffee63"
 bright_blue = "#94a143"
@@ -48,7 +48,7 @@ bright_cyan = "#fff85e"
 
 # Normal colors (ANSI 0-7)
 color0 = "#0D1319"
-color1 = "#b79356"
+color1 = "#cf5a44"
 color2 = "#dbc66f"
 color3 = "#fff38a"
 color4 = "#808b40"
@@ -57,8 +57,8 @@ color6 = "#ebe36c"
 color7 = "#F2ECCD"
 
 # Bright colors (ANSI 8-15)
-color8 = "#696d73"
-color9 = "#d4a658"
+color8 = "#7b8a8e"
+color9 = "#e07458"
 color10 = "#f8dc67"
 color11 = "#ffee63"
 color12 = "#94a143"

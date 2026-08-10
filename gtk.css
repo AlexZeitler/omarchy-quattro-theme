@@ -8,15 +8,15 @@
 @define-color foreground #F2ECCD;
 
 @define-color black #0D1319;
-@define-color red #b79356;
+@define-color red #cf5a44;
 @define-color green #dbc66f;
 @define-color yellow #fff38a;
 @define-color blue #808b40;
 @define-color magenta #e0a154;
 @define-color cyan #ebe36c;
 @define-color white #F2ECCD;
-@define-color bright_black #696d73;
-@define-color bright_red #d4a658;
+@define-color bright_black #7b8a8e;
+@define-color bright_red #e07458;
 @define-color bright_green #f8dc67;
 @define-color bright_yellow #ffee63;
 @define-color bright_blue #94a143;
