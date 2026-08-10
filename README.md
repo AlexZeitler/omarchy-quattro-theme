@@ -2,7 +2,7 @@
 
 ![Preview](assets/preview.png)
 
-An Omarchy theme based on the Audi Sport quattro rally livery: near-black blue as background, warm cream as foreground, with accents in olive green, lime and gold.
+An Omarchy theme based on the Audi Sport quattro rally livery: near-black blue-grey as background, cream as foreground, with accents in olive, brass and warm gold.
 
 ## Installation
 

@@ -1,6 +1,6 @@
 # Quattro Theme
 
-A dark color theme based on the Audi Sport quattro rally livery: near-black blue as background, warm cream as foreground, with accents in olive green, lime and gold.
+A dark color theme based on the Audi Sport quattro rally livery: near-black blue-grey as background, cream as foreground, with accents in olive, brass and warm gold.
 
 The theme is part of the [Omarchy Quattro theme](https://github.com/AlexZeitler/omarchy-quattro-theme), which covers Hyprland, Waybar, terminals, btop and more. Installing the Omarchy theme selects this VSCode theme automatically.
 
