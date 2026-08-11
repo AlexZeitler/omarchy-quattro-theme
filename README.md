@@ -17,3 +17,7 @@ Click a thumbnail to open the wallpaper in full resolution.
 ### Quattro
 
 [![Quattro Wallpaper](assets/quattro-thumb.jpg)](backgrounds/quattro.jpg)
+
+### Audi Sport
+
+[![Audi Sport Wallpaper](assets/audi-sport-thumb.jpg)](backgrounds/AUDI%20Sport.png)
