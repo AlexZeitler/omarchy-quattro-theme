@@ -29,3 +29,7 @@ Click a thumbnail to open the wallpaper in full resolution.
 ### Quattro S1 Rally
 
 [![Quattro S1 Rally Wallpaper](assets/quattro-s1-rally-thumb.jpg)](backgrounds/Quattro%20S1%20rally.png)
+
+### Quattro S1 Roehrl
+
+[![Quattro S1 Roehrl Wallpaper](assets/quattro-s1-roehrl-thumb.jpg)](backgrounds/Quattro%20S1%20Roehrl.png)
