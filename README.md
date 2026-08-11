@@ -14,9 +14,9 @@ omarchy theme install https://github.com/alexzeitler/omarchy-quattro-theme
 
 Click a thumbnail to open the wallpaper in full resolution.
 
-### Quattro
+### Quattro Mouton
 
-[![Quattro Wallpaper](assets/quattro-thumb.jpg)](backgrounds/quattro.jpg)
+[![Quattro Mouton Wallpaper](assets/quattro-mouton-thumb.jpg)](backgrounds/quattro-mouton.jpg)
 
 ### Audi Sport
 
