@@ -4,6 +4,8 @@
 
 An Omarchy theme based on the Audi Sport quattro rally livery: near-black blue-grey as background, cream as foreground, with accents in olive, brass and warm gold, red from the stripe and a white border on the active window.
 
+A light variant is available as [omarchy-quattro-light-theme](https://github.com/AlexZeitler/omarchy-quattro-light-theme).
+
 ## Installation
 
 ```bash
