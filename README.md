@@ -21,3 +21,7 @@ Click a thumbnail to open the wallpaper in full resolution.
 ### Audi Sport
 
 [![Audi Sport Wallpaper](assets/audi-sport-thumb.jpg)](backgrounds/AUDI%20Sport.png)
+
+### Quattro S1 Jump
+
+[![Quattro S1 Jump Wallpaper](assets/quattro-s1-jump-thumb.jpg)](backgrounds/Quattro%20S1%20jump.png)
