@@ -25,3 +25,7 @@ Click a thumbnail to open the wallpaper in full resolution.
 ### Quattro S1 Jump
 
 [![Quattro S1 Jump Wallpaper](assets/quattro-s1-jump-thumb.jpg)](backgrounds/Quattro%20S1%20jump.png)
+
+### Quattro S1 Rally
+
+[![Quattro S1 Rally Wallpaper](assets/quattro-s1-rally-thumb.jpg)](backgrounds/Quattro%20S1%20rally.png)
